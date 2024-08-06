@@ -1,0 +1,9 @@
+/.devcontainer
+/.vscode
+/build
+/log-de-acceso-de-dron(station)-a-control(ap)-hexdump.txt
+/log-de-acceso-de-dron(station)-a-control(ap).txt
+/log-de-acceso-telef(station)-a-control(ap).txt
+/sdkconfig.ci.esp32c2_xtal26m
+/sdkconfig.ci.orig.ci
+/sdkconfig.old
